@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.ViewModel\bin\Debug\net8.0\Student.ViewModel.deps.json
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.ViewModel\bin\Debug\net8.0\Student.ViewModel.runtimeconfig.json
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.ViewModel\bin\Debug\net8.0\Student.ViewModel.dll
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.ViewModel\bin\Debug\net8.0\Student.ViewModel.pdb
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.ViewModel\obj\Debug\net8.0\Student.ViewModel.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.ViewModel\obj\Debug\net8.0\Student.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.ViewModel\obj\Debug\net8.0\Student.ViewModel.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.ViewModel\obj\Debug\net8.0\Student.ViewModel.AssemblyInfo.cs
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.ViewModel\obj\Debug\net8.0\Student.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.ViewModel\obj\Debug\net8.0\Student.ViewModel.dll
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.ViewModel\obj\Debug\net8.0\refint\Student.ViewModel.dll
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.ViewModel\obj\Debug\net8.0\Student.ViewModel.pdb
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.ViewModel\obj\Debug\net8.0\Student.ViewModel.genruntimeconfig.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.ViewModel\obj\Debug\net8.0\ref\Student.ViewModel.dll

@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Business\bin\Debug\net8.0\Student.Business.deps.json
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Business\bin\Debug\net8.0\Student.Business.runtimeconfig.json
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Business\bin\Debug\net8.0\Student.Business.dll
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Business\bin\Debug\net8.0\Student.Business.pdb
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Business\obj\Debug\net8.0\Student.Business.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Business\obj\Debug\net8.0\Student.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Business\obj\Debug\net8.0\Student.Business.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Business\obj\Debug\net8.0\Student.Business.AssemblyInfo.cs
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Business\obj\Debug\net8.0\Student.Business.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Business\obj\Debug\net8.0\Student.Business.dll
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Business\obj\Debug\net8.0\refint\Student.Business.dll
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Business\obj\Debug\net8.0\Student.Business.pdb
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Business\obj\Debug\net8.0\Student.Business.genruntimeconfig.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Business\obj\Debug\net8.0\ref\Student.Business.dll

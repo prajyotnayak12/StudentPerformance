@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Entity\bin\Debug\net8.0\Students.Entity.deps.json
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Entity\bin\Debug\net8.0\Students.Entity.runtimeconfig.json
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Entity\bin\Debug\net8.0\Students.Entity.dll
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Entity\bin\Debug\net8.0\Students.Entity.pdb
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Entity\obj\Debug\net8.0\Students.Entity.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Entity\obj\Debug\net8.0\Students.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Entity\obj\Debug\net8.0\Students.Entity.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Entity\obj\Debug\net8.0\Students.Entity.AssemblyInfo.cs
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Entity\obj\Debug\net8.0\Students.Entity.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Entity\obj\Debug\net8.0\Students.Entity.dll
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Entity\obj\Debug\net8.0\refint\Students.Entity.dll
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Entity\obj\Debug\net8.0\Students.Entity.pdb
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Entity\obj\Debug\net8.0\Students.Entity.genruntimeconfig.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Entity\obj\Debug\net8.0\ref\Students.Entity.dll
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Entity\obj\Debug\net8.0\Students.Entity.sourcelink.json

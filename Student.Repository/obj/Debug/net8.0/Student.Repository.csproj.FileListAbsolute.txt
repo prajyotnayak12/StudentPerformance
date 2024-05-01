@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Repository\bin\Debug\net8.0\Student.Repository.deps.json
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Repository\bin\Debug\net8.0\Student.Repository.runtimeconfig.json
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Repository\bin\Debug\net8.0\Student.Repository.dll
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Repository\bin\Debug\net8.0\Student.Repository.pdb
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Repository\obj\Debug\net8.0\Student.Repository.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Repository\obj\Debug\net8.0\Student.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Repository\obj\Debug\net8.0\Student.Repository.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Repository\obj\Debug\net8.0\Student.Repository.AssemblyInfo.cs
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Repository\obj\Debug\net8.0\Student.Repository.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Repository\obj\Debug\net8.0\Student.Repository.dll
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Repository\obj\Debug\net8.0\refint\Student.Repository.dll
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Repository\obj\Debug\net8.0\Student.Repository.pdb
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Repository\obj\Debug\net8.0\Student.Repository.genruntimeconfig.cache
+C:\Users\DELL\Desktop\project\StudentPerformance\Student.Repository\obj\Debug\net8.0\ref\Student.Repository.dll
